@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+p{
+    font-family:veranda,dejaVu-Sans , sans-serif;
+    background-color: #eaa4ae;
+}
+#second{
+    font-size:36px;
+    color: blue;
+}
+#third{
+
+    font-size:24px
+}
+
+#fourth{
+    background:#97e997;
+    font-size:24px;
+    font-weight:760px
+}
